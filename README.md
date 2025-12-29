@@ -13,13 +13,13 @@ I'm Shivam Chauhan from Mumbai, currently pursuing B.Voc in Software Development
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDev11&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShivamDev11&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ShivamDev11&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShivamDev11&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ShivamDev11&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShivamDev11&icon=6&color=7)](https://visitcount.itsvg.in)
