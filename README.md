@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0a3d62,80:1a1a2e&height=250&section=header&text=Shivam%20Chauhan&fontSize=70&fontColor=58a6ff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Mumbai%20🇮🇳&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Shivam%20Chauhan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20🚀&descAlignY=70"/>
 
 </div>
 
@@ -132,6 +132,5 @@ const shivam = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20🙏&fontSize=22&fontColor=58a6ff"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=Thanks%20for%20visiting!%20🙏&fontSize=22&fontColor=ffffff"/>
 </div>
