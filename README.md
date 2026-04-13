@@ -76,11 +76,8 @@ const shivam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamDev11&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShivamDev11&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDev11&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDev11&theme=tokyonight&hide_border=true" />
 
