@@ -81,8 +81,17 @@ const shivam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamDev11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShivamDev11&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_color=1f6feb" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDev11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ShivamDev11&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=1f6feb" width="520"/>
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ---
 
 ## 📈 Contribution Graph
