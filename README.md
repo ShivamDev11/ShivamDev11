@@ -76,13 +76,13 @@ const shivam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamDev11&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShivamDev11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDev11&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDev11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShivamDev11&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDev11&theme=tokyonight&hide_border=true" width="420"/>
 
 </div>
 
