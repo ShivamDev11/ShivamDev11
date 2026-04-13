@@ -6,13 +6,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀%20Full-Stack%20Developer;💻%20React%20%7C%20PHP%20%7C%20Python%20%7C%20MySQL;🔥%20Building%20Real%20World%20Projects;🤝%20Open%20to%20Internships%20%26%20Collaborations" />
-
-</div>
 
 ---
 
