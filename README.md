@@ -76,13 +76,13 @@ const shivam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamDev11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShivamDev11&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDev11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamDev11&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDev11&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDev11&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -93,16 +93,6 @@ const shivam = {
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ShivamDev11/ShivamDev11/output/github-snake-dark.svg" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDev11&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
