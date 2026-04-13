@@ -86,10 +86,13 @@ const shivam = {
 ---
 
 ## 🐍 Contribution Snake
+---
+
+## 🎮 Live footage of me fighting bugs at 2 AM
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShivamDev11/ShivamDev11/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ShivamDev11/ShivamDev11/output/github-snake-dark.svg" width="100%" />
 
 </div>
 
