@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Shivam%20Chauhan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20🚀&descAlignY=70"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Shivam%20Chauhan;Full-Stack%20Developer;React%20%7C%20PHP%20%7C%20Python;Building%20Real%20Projects;Open%20for%20Internships" />
 </div>
 
 ---
