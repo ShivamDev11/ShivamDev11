@@ -137,14 +137,6 @@ flowchart LR
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamDev11&theme=tokyonight" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShivamDev11&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamDev11&theme=tokyo-night&hide_border=true" width="100%" />
-
 </div>
 
 ---
